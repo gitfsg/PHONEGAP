@@ -1,0 +1,23 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "Una aplicación web móvil completa para escanear y analizar ingredientes de productos, evaluando su impacto en la salud humana y animal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfsg/calidadproducto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitfsg/calidadproducto/issues"
+  },
+  "homepage": "https://github.com/gitfsg/calidadproducto#readme",
+  "devDependencies": {
+    "cordova-android": "^14.0.1"
+  }
+}
