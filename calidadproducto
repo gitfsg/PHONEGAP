@@ -1,0 +1,6 @@
+git init
+git add .
+git add '.cordova\'
+git add 'platforms\'
+git add 'plugins\'
+git add 'www\'
